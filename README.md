@@ -10,6 +10,19 @@
 
 ### Hi there 👋
 
+---
+
+### About me:
+- 🐧 Linux enthusiast
+- 🛡️ Cybersecurity enthusiast
+- 🔭 I'm currently working on Linux distribution called Subuntu as school project
+
+---
+
+### Skills:
+<div id="skills">
+  <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white" alt=!Linux Badge"/>
+</div>
 <!--
 **GoldenFlash7/GoldenFlash7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
