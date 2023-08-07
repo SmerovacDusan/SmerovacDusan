@@ -1,3 +1,13 @@
+<div id="badges">
+  <a href="www.linkedin.com/in/anežka-lábusová-b7936a226">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://mastodon.social/@GoldenFlash">
+<img src="https://img.shields.io/badge/Mastodon-6364ff?logo=mastodon&logoColor=white&style=for-the-badge" alt="Mastodon Badge"/>
+  </a>
+</div>
+
+
 ### Hi there 👋
 
 <!--
@@ -15,11 +25,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="badges">
-  <a href="www.linkedin.com/in/anežka-lábusová-b7936a226">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://mastodon.social/@GoldenFlash">
-<img src="https://img.shields.io/badge/Mastodon-6364ff?logo=mastodon&logoColor=white&style=for-the-badge" alt="Mastodon Badge"/>
-  </a>
-</div>
