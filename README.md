@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="images">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Mastodon-6364ff?logo=mastodon&logoColor=white&style=for-the-badge" alt="Mastodon Badge"/>
+</div>
+
+<div id="badges">
+  <a href="www.linkedin.com/in/anežka-lábusová-b7936a226">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://mastodon.social/@GoldenFlash">
+<img src="https://img.shields.io/badge/Mastodon-6364ff?logo=mastodon&logoColor=white&style=for-the-badge" alt="Mastodon Badge"/>
+  </a>
+</div>
