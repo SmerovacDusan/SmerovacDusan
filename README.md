@@ -16,7 +16,7 @@
 - 🇨🇿 👩‍💻
 - 🐧 Linux enthusiast
 - 🌐 CCNA certification
-- 🛡️ Interested in cybersecurity
+- 🛡️ Cybersecurity student
 
 ---
 
