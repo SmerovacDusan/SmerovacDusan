@@ -15,7 +15,7 @@
 ### About me:
 - 🇨🇿 👩‍💻
 - 🐧 Linux enthusiast
-- 🌐 CCNA certification
+- 🌐 CCNA: Introduction to Networks
 - 🛡️ Cybersecurity student
 
 ---
